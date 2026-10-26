@@ -1,0 +1,59 @@
+body{
+background-color: rgb(127, 197, 255);
+
+
+}
+.head1{
+ display: flex;
+ padding: 10px;
+ justify-content: center;
+ background-color: aqua;
+ align-items: center;
+border-radius: 50px;
+
+}
+
+.logo{
+border-radius: 50px;
+align-items: start;
+
+
+}
+
+.head1 ul{
+
+    display: flex;
+    gap: 30px;
+  align-items: center;
+}
+
+.Link{
+list-style: none;
+
+}
+.Link li{
+list-style: none;
+
+}
+h1{
+text-align: center;
+background-color: aquamarine;
+border-radius: 60px;
+}
+
+.head2{
+ display: flex;
+ padding: 10px;
+ justify-content: space-between;
+ background-color: rgba(0, 255, 255, 0.363);
+ align-items: center;
+border-radius: 30px;
+
+}
+
+.foot{
+
+background-color: rgba(0, 153, 255, 0.219);
+align-items: center;
+text-align: center;
+}

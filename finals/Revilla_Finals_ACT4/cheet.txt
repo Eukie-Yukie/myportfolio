@@ -1,0 +1,54 @@
+$(document).ready(function(){
+
+        $("p").css("color","blue")
+        $("p.intro").css("color","green")
+
+        $("#title").css("color","green")
+        // $("#title").text("color","green")
+
+
+
+        $(".Colorbtn").click(function(){
+
+                $(this).css("background","green")
+
+        })
+})
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+my student profile  h
+welcome to my interactive profile  p
+
+student information
+
+
+
+
+3
+butoon
+change ttitle 
+doble click
+welcome student
+
+buton2
+show
+button 3
+hide
+
+in down of button it will show what happen example if click the button 3 hide the information
+
+in baba
+my dropbox
+choose your course
+
+
+
+
+next
+is table
+
+student list
+
+2 button
+button 1 change color of odd
+button 2 change color of even 
